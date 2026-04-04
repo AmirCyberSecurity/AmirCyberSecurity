@@ -1,5 +1,3 @@
-$ echo "[*] Generating FSOCIETY profile..." && sleep 0.5 && cat > README.md << "EOF"
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=80&color=00FF00&center=true&vCenter=true&width=1000&lines=%24+INITIALIZING+FSOCIETY+PROTOCOL;%24+ROOT+ACCESS:+GRANTED;%24+ENCRYPTION:+AES-256;%24+FIREWALL:+BYPASSED;%24+WHOIS:+CYBERSECURITY+OPERATOR;%24+STATUS:+WATCHING+YOU)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=70&color=0F0&center=false&vCenter=true&width=600&lines=%3E_+Python+Developer+(Middle);%3E_+Django+(Junior%2B);%3E_+Flet+0.21.2+(Middle);%3E_+Cybersecurity+Student;%3E_+Red+Team+%7C+Blue+Team;%3E_+OSINT+%7C+DDoS+Mitigation;%3E_+Penetration+Testing+Enthusiast)](https://git.io/typing-svg)
@@ -22,8 +20,4 @@ $ echo "[*] Generating FSOCIETY profile..." && sleep 0.5 && cat > README.md << "
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&pause=30&color=0F0&center=true&vCenter=true&width=900&lines=%24+root@fsociety%3A~%24+exit;%24+Connection+closed;%24+EOF)](https://git.io/typing-svg)
 
-EOF
 
-$ echo "[✔] README.md generated successfully"
-$ echo "[✔] Profile ready for deployment"
-$ cat README.md
