@@ -1,68 +1,29 @@
-$ cat >> README.md << EOF
-# ------------------------------------------------------------------------------
-# FSOCIETY PROFILE - root@fsociety:~$
-# ------------------------------------------------------------------------------
+$ echo "[*] Generating FSOCIETY profile..." && sleep 0.5 && cat > README.md << "EOF"
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:00ff00,100:0a0a0a&height=180&section=header&text=FSOCIETY&fontSize=65&fontColor=00ff00&animation=fadeIn&desc=Hello%2C%20friend&descAlignY=80&descSize=18)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=80&color=00FF00&center=true&vCenter=true&width=1000&lines=%24+INITIALIZING+FSOCIETY+PROTOCOL;%24+ROOT+ACCESS:+GRANTED;%24+ENCRYPTION:+AES-256;%24+FIREWALL:+BYPASSED;%24+WHOIS:+CYBERSECURITY+OPERATOR;%24+STATUS:+WATCHING+YOU)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=false&vCenter=true&width=500&lines=%24+whoami;%3E_+Python+Developer+(Middle);%3E_+Django+(Junior%2B);%3E_+Flet+0.21.2+(Middle);%3E_+Cybersecurity+Student)](https://git.io/typing-svg)
-
----
-[+] OS: Parrot OS
-[+] SHELL: zsh
-[+] TERM: xterm-256color
-[+] THEME: fsociety-dark
----
-
-> whoami
-----------------------------------------
-  role      : Python Developer (Middle)
-  framework : Django (Junior+)
-  frontend  : Flet 0.21.2 (Middle)
-  study     : Cybersecurity Student
-
-> skills
-----------------------------------------
-  languages : Python, Bash, SQL
-  tools     : Git, Nmap, Metasploit, Wireshark
-  domains   : DDoS, OSINT, Red Team, Blue Team
-
-> status
-----------------------------------------
-  [x] not part of dox/swat/snos communities
-  [x] had contact before, not affiliated now
-  [x] focus on skills and knowledge
-
-> contact
-----------------------------------------
-  telegram : @Vozmezdin
-
-> core_philosophy
-----------------------------------------
-  # infinite loop
-  while system.running:
-      learn()
-      analyze()
-      exploit()
-      secure()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=70&color=0F0&center=false&vCenter=true&width=600&lines=%3E_+Python+Developer+(Middle);%3E_+Django+(Junior%2B);%3E_+Flet+0.21.2+(Middle);%3E_+Cybersecurity+Student;%3E_+Red+Team+%7C+Blue+Team;%3E_+OSINT+%7C+DDoS+Mitigation;%3E_+Penetration+Testing+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
-## github stats
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=60&color=0F0&center=false&vCenter=true&width=800&lines=%24+whoami;%5Bcybersecurity+operator%5D+%7C+%5Bpython+developer%5D+%7C+%5Bethical+hacker+in+training%5D)](https://git.io/typing-svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vozmezdin&show_icons=true&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=0a0a0a&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vozmezdin&theme=dark&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&background=0a0a0a&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vozmezdin&layout=compact&theme=dark&title_color=00ff00&text_color=00ff00&bg_color=0a0a0a&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=65&color=0F0&center=false&vCenter=true&width=800&lines=%24+skills;%5BDDoS%5D+%7C+%5BOSINT%5D+%7C+%5BRed+Team%5D+%7C+%5BBlue+Team%5D+%7C+%5BReverse+Engineering%5D)](https://git.io/typing-svg)
 
-## activity graph
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=70&color=0F0&center=false&vCenter=true&width=800&lines=%24+status;%5Bx%5D+not+part+of+dox+%2F+swat+%2F+snos+communities;%5B%2B%5D+had+contact+before+-+not+affiliated+now;%5B*%5D+focus+on+skills%2C+knowledge+%26+cybersecurity)](https://git.io/typing-svg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vozmezdin&theme=react-dark&bg_color=0a0a0a&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=80&color=0F0&center=false&vCenter=true&width=800&lines=%24+contact;%3E+Telegram:+%40Vozmezdin;%3E+Signal:+available+upon+request;%3E+XMPP:+fsociety%40dukgo.com;%3E+PGP:+F1ng3rpr1nt+available+on+keyserver)](https://git.io/typing-svg)
 
-## matrix gif
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=90&color=00FF00&center=true&vCenter=true&width=900&lines=%24+core_philosophy;while(true)+%7B+learn()+%7C+analyze()+%7C+exploit()+%7C+secure()+%7D)](https://git.io/typing-svg)
 
-![matrix](https://media.giphy.com/media/S9x6U7L1R9jri/giphy.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=50&color=0F0&center=false&vCenter=true&width=1000&lines=%24+Remember:+cybersecurity+is+not+a+game;%24+Defend+your+network;%24+Protect+your+privacy;%24+Stay+anonymous;%24+Stay+vigilant;%24+Hello,+friend;%24+Goodbye,+friend)](https://git.io/typing-svg)
 
 ---
-$ echo "EOF"
-$ chmod +x README.md
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&pause=30&color=0F0&center=true&vCenter=true&width=900&lines=%24+root@fsociety%3A~%24+exit;%24+Connection+closed;%24+EOF)](https://git.io/typing-svg)
+
+EOF
+
+$ echo "[✔] README.md generated successfully"
+$ echo "[✔] Profile ready for deployment"
 $ cat README.md
