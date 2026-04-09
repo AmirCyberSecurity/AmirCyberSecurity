@@ -12,10 +12,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=90&color=00FF00&center=true&vCenter=true&width=900&lines=%24+core_philosophy;while(true)+%7B+learn()+%7C+analyze()+%7C+exploit()+%7C+secure()+%7D)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=50&color=0F0&center=false&vCenter=true&width=1000&lines=%24+Remember:+cybersecurity+is+not+a+game;%24+Defend+your+network;%24+Protect+your+privacy;%24+Stay+anonymous;%24+Stay+vigilant;%24+Hello,+friend;%24+Goodbye,+friend)](https://git.io/typing-svg)
-
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&pause=30&color=0F0&center=true&vCenter=true&width=900&lines=%24+root@fsociety%3A~%24+exit;%24+Connection+closed;%24+EOF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=50&color=0F0&center=false&vCenter=true&width=1000&lines=%24+Remember:+cybersecurity+is+not+a+game;%24+Defend+your+network;%24+Protect+your+privacy;%24+Stay+anonymous;%24+Stay+vigilant;%24+Hello,+friend;%24+Goodbye,+friend)](https://git.io/typing-svg)
+
 
 
