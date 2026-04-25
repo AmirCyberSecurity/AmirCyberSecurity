@@ -2,12 +2,7 @@
 <h3 align="center">Cybersecurity Specialist | Django Developer | OSINT Researcher</h3>
 
 - 🌱 I’m currently learning **Advanced OSINT, Kali Linux, Linux Internals**
-
-- 💬 Ask me about **Django, Flask, Flet Framework, Python**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 💬 Ask me about **Django, Flask, Python, OSINT**
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -16,8 +11,6 @@
 <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a></td>
 
 <td><a href="https://flutter.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/></a></td>
-
-<td><a href="https://flet.dev"><img src="https://avatars.githubusercontent.com/u/88219173?s=200&v=4" width="40" height="40"/></a></td>
 
 <td><a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/></a></td>
 
@@ -34,6 +27,14 @@
 <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a></td>
 
 <td><a href="https://www.kali.org/"><img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="40" height="40"/></a></td>
+
+<td><a href="https://www.wireshark.org/"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/></a></td>
+
+<td><a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a></td>
+
+<td><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a></td>
+
+<td><a href="https://docs.aiohttp.org/"><img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-icon-128x128.png" width="40" height="40"/></a></td>
 
 <td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
 
