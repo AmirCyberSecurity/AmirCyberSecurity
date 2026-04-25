@@ -26,15 +26,11 @@
 
 <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a></td>
 
-<td><a href="https://www.kali.org/"><img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="40" height="40"/></a></td>
-
 <td><a href="https://www.wireshark.org/"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/></a></td>
 
 <td><a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a></td>
 
 <td><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a></td>
-
-<td><a href="https://docs.aiohttp.org/"><img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-icon-128x128.png" width="40" height="40"/></a></td>
 
 <td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
 
