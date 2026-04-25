@@ -1,19 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=80&color=00FF00&center=true&vCenter=true&width=1000&lines=%24+INITIALIZING+FSOCIETY+PROTOCOL;%24+ROOT+ACCESS:+GRANTED;%24+ENCRYPTION:+AES-256;%24+FIREWALL:+BYPASSED;%24+WHOIS:+CYBERSECURITY+OPERATOR;%24+STATUS:+WATCHING+YOU)](https://git.io/typing-svg)
+<h1 align="center">Hi, I'm Amir</h1>
+<h3 align="center">Young Cybersecurity specialist, Django developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=70&color=0F0&center=false&vCenter=true&width=600&lines=%3E_+Python+Developer+(Middle);%3E_+Django+(Junior%2B);%3E_+Flet(Middle);%3E_+Cybersecurity+Specialist;%3E_+Red+Team+%7C+Blue+Team;%3E_+OSINT+%7C+DDoS+Mitigation;%3E_+Penetration+Testing+Enthusiast)](https://git.io/typing-svg)
+- 🌱 I’m currently learning **OSINT, Linux**
 
----
+- 💬 Ask me about **Django, FLET Framework**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=60&color=0F0&center=false&vCenter=true&width=800&lines=%24+whoami;%5Bcybersecurity+operator%5D+%7C+%5Bpython+developer%5D+%7C+%5Bethical+hacker+in+training%5D)](https://git.io/typing-svg)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=65&color=0F0&center=false&vCenter=true&width=800&lines=%24+skills;%5BDDoS%5D+%7C+%5BOSINT%5D+%7C+%5BRed+Team%5D+%7C+%5BBlue+Team%5D+%7C+%5BReverse+Engineering%5D)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=90&color=00FF00&center=true&vCenter=true&width=900&lines=%24+core_philosophy;while(true)+%7B+learn()+%7C+analyze()+%7C+exploit()+%7C+secure()+%7D)](https://git.io/typing-svg)
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=50&color=0F0&center=false&vCenter=true&width=1000&lines=%24+Remember:+cybersecurity+is+not+a+game;%24+Defend+your+network;%24+Protect+your+privacy;%24+Stay+anonymous;%24+Stay+vigilant;%24+Hello,+friend;%24+Goodbye,+friend)](https://git.io/typing-svg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 
