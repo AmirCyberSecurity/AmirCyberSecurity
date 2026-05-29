@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning **Advanced OSINT, Kali Linux, Linux Internals**
 - 💬 Ask me about **Django, Flask, Python, OSINT**
 
+![Stats](https://github-readme-stats.vercel.app/api?username=AmirCyberSecurity&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=00ff88&icon_color=00ff88)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirCyberSecurity&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=00ff88)
+
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
