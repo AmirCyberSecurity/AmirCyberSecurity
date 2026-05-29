@@ -5,8 +5,11 @@
 - 💬 Ask me about **Django, Flask, Python, OSINT**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirCyberSecurity&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9ca3af&text_color=9ca3af&icon_color=9ca3af" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirCyberSecurity&layout=compact&hide_border=true&bg_color=0d1117&title_color=9ca3af&text_color=9ca3af" height="165"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmirCyberSecurity&theme=github_dark" height="165"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmirCyberSecurity&theme=github_dark" height="165"/>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
