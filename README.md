@@ -38,12 +38,6 @@
 </tr>
 </table>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirCyberSecurity&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirCyberSecurity&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmirCyberSecurity&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AmirCyberSecurity&hide_border=true&theme=github-dark&background=0D1117&ring=6B7280&fire=6B7280&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF" />
 </p>
