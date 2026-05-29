@@ -4,14 +4,6 @@
 - 🌱 I’m currently learning **Advanced OSINT, Kali Linux, Linux Internals**
 - 💬 Ask me about **Django, Flask, Python, OSINT**
 
-<p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmirCyberSecurity&theme=github_dark" height="165"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmirCyberSecurity&theme=github_dark" height="165"/>
-
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
@@ -45,3 +37,13 @@
 <td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a></td>
 </tr>
 </table>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirCyberSecurity&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirCyberSecurity&layout=compact&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AmirCyberSecurity&hide_border=true" />
+</p>
