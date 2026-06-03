@@ -7,49 +7,65 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
+
 <a href="https://www.python.org">
-<img src="https://skillicons.dev/icons?i=python" />
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.djangoproject.com/">
-<img src="https://skillicons.dev/icons?i=django" />
+<img width="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://flask.palletsprojects.com/">
-<img src="https://skillicons.dev/icons?i=flask" />
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" />
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 </a>
 
-<a href="https://www.w3.org/html/">
-<img src="https://skillicons.dev/icons?i=html" />
-</a>
-
-<a href="https://www.w3schools.com/css/">
-<img src="https://skillicons.dev/icons?i=css" />
-</a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" />
+<img width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 </a>
 
-<a href="https://numpy.org/">
-<img src="https://skillicons.dev/icons?i=python" />
-</a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" />
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 </a>
 
-<a href="https://www.figma.com/">
-<img src="https://skillicons.dev/icons?i=figma" />
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.kali.org/">
+<img width="50" src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.wireshark.org/">
+<img width="50" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.figma.com/">
+<img width="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+</a>
+
 </p>
 
 <h3 align="left">Statistics:</h3>
