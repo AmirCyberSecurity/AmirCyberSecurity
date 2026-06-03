@@ -7,37 +7,33 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/></a>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=white">
 </p>
 
 <p align="center">
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.wireshark.org/"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="45" height="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.kali.org/">
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/badge/Kali-111111?style=for-the-badge&logo=kalilinux&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/Open-source_intelligence">
+&nbsp;
+<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=hackthebox&logoColor=white">
-</a>
 </p>
 
 <h3 align="left">Statistics:</h3>
