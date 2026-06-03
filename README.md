@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Amir</h1>
 <h3 align="center">Cybersecurity Specialist | Django Developer | OSINT Researcher</h3>
 
-- 🌱 I’m currently learning **Advanced OSINT, Kali Linux, Linux Internals**
-- 💬 Ask me about **Django, Flask, Python, OSINT**
+-  I’m currently learning **Advanced OSINT, Kali Linux, Linux Internals**
+-  Ask me about **Django, Flask, Python, OSINT**
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -39,22 +39,29 @@
 </tr>
 </table>
 
+<h3 align="left">Statistics:</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AmirCyberSecurity&hide_border=true&theme=github-dark&background=0D1117&ring=6B7280&fire=6B7280&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF" />
 </p>
 
-<h3 align="center">🔥 Featured Projects</h3>
+<h3 align="center">Featured Projects:</h3>
+
+<h2 align="center">ProjectsЖ</h2>
 
 <p align="center">
   <a href="https://github.com/AmirCyberSecurity/TonFlood">
-    <img src="https://img.shields.io/badge/TonFlood-111111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img height="45" src="https://img.shields.io/badge/TonFlood-111111?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/AmirCyberSecurity/Fsociety">
-    <img src="https://img.shields.io/badge/Fsociety-111111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img height="45" src="https://img.shields.io/badge/Fsociety-111111?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/AmirCyberSecurity/ADDoS">
-    <img src="https://img.shields.io/badge/ADDoS-111111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img height="45" src="https://img.shields.io/badge/ADDoS-111111?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
