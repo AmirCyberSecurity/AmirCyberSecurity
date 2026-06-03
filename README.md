@@ -7,65 +7,16 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-
-<a href="https://www.python.org">
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.djangoproject.com/">
-<img width="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://flask.palletsprojects.com/">
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://git-scm.com/">
-<img width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mysql.com/">
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linux.org/">
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.kali.org/">
-<img width="50" src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.wireshark.org/">
-<img width="50" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.figma.com/">
-<img width="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
-</a>
-
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.kali.org/"><img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.wireshark.org/"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/></a>
 </p>
 
 <h3 align="left">Statistics:</h3>
