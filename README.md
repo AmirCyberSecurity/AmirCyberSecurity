@@ -43,9 +43,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://en.wikipedia.org/wiki/Open-source_intelligence">
-<img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=hackthebox&logoColor=white">
-</a>
+
 </p>
 
 <h3 align="left">Statistics:</h3>
