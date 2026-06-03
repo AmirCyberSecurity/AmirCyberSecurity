@@ -34,8 +34,6 @@
 
 <td><a href="https://en.wikipedia.org/wiki/Open-source_intelligence"><img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=hackthebox&logoColor=white" height="28"/></a></td>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmirCyberSecurity/AmirCyberSecurity/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 <td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a></td>
 </tr>
