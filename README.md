@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:555555&height=200&section=header&text=Amir%20CyberSecurity&fontColor=ffffff&fontSize=40"/>
 </p>
 
 <h1 align="center">Hi, I'm Amir</h1>
