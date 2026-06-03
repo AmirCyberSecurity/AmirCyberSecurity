@@ -30,11 +30,6 @@
 <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45"/></a>
 </p>
 
-<p align="center">
-<a href="https://www.kali.org/">
-<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white">
-</a>
-
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.wireshark.org/">
