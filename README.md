@@ -36,11 +36,6 @@
 <img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=hackthebox&logoColor=white">
 </p>
 
-<h3 align="left">Statistics:</h3>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmirCyberSecurity&hide_border=true&theme=github-dark&background=0D1117&ring=6B7280&fire=6B7280&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF" />
-</p>
-
 <h3 align="left">Featured Projects:</h3>
 
 
