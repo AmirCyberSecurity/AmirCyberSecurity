@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=hackthebox&logoColor=white">
 </p>
 
-<h3 align="left">Featured Projects:</h3>
+<h3 align="center">Projects:</h3>
 
 
 <p align="center"><a href="https://github.com/AmirCyberSecurity/TonFlood"><img height="55" src="https://img.shields.io/badge/TonFlood-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/Fsociety"><img height="55" src="https://img.shields.io/badge/Fsociety-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/ADDoS"><img height="55" src="https://img.shields.io/badge/ADDoS-111111?style=for-the-badge&logo=github&logoColor=white"></a></p>
