@@ -4,6 +4,8 @@
 -  I’m currently learning **Advanced OSINT, Kali Linux, Linux Internals**
 -  Ask me about **Django, Kali Linux, Python, OSINT**
 
+![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
@@ -40,7 +42,3 @@
 
 
 <p align="center"><a href="https://github.com/AmirCyberSecurity/TonFlood"><img height="55" src="https://img.shields.io/badge/TonFlood-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/Fsociety"><img height="55" src="https://img.shields.io/badge/Fsociety-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/ADDoS"><img height="55" src="https://img.shields.io/badge/ADDoS-111111?style=for-the-badge&logo=github&logoColor=white"></a></p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx..." width="800">
-</p>
