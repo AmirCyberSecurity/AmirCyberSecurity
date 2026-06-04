@@ -4,7 +4,6 @@
 -  I’m currently learning **Advanced OSINT, Kali Linux, Linux Internals**
 -  Ask me about **Django, Kali Linux, Python, OSINT**
 
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 
