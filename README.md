@@ -4,7 +4,7 @@
 -  I’m currently learning **Advanced OSINT, Kali Linux, Linux Internals**
 -  Ask me about **Django, Kali Linux, Python, OSINT**
 
-<h2 align="center">Languages and Tools:</h2>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
@@ -36,7 +36,11 @@
 <img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=hackthebox&logoColor=white">
 </p>
 
-<h2 align="center">Projects:</h2>
+<h3 align="left">Projects:</h3>
 
 
 <p align="center"><a href="https://github.com/AmirCyberSecurity/TonFlood"><img height="55" src="https://img.shields.io/badge/TonFlood-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/Fsociety"><img height="55" src="https://img.shields.io/badge/Fsociety-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/ADDoS"><img height="55" src="https://img.shields.io/badge/ADDoS-111111?style=for-the-badge&logo=github&logoColor=white"></a></p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx..." width="800">
+</p>
