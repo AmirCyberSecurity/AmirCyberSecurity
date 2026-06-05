@@ -42,16 +42,10 @@
 
 <p align="center"><a href="https://github.com/AmirCyberSecurity/TonFlood"><img height="55" src="https://img.shields.io/badge/TonFlood-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/Fsociety"><img height="55" src="https://img.shields.io/badge/Fsociety-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/ADDoS"><img height="55" src="https://img.shields.io/badge/ADDoS-111111?style=for-the-badge&logo=github&logoColor=white"></a></p>
 
-<table width="100%">
-<tr>
-<td align="left">
-<h3>Reach Me:</h3>
-</td>
-<td align="center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=amircybersecurity@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-</td>
-<td></td>
-</tr>
-</table>
+<h4 align="left">Reach Me:</h4>
+
+<p align="left">
+  <a href="amircybersecurity@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
