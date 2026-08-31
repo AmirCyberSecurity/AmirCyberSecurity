@@ -42,13 +42,20 @@
 
 <p align="center"><a href="https://github.com/AmirCyberSecurity/TonFlood"><img height="55" src="https://img.shields.io/badge/TonFlood-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/Fsociety"><img height="55" src="https://img.shields.io/badge/Fsociety-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/ADDoS"><img height="55" src="https://img.shields.io/badge/ADDoS-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/AVERON"><img height="55" src="https://img.shields.io/badge/AVERON-111111?style=for-the-badge&logo=github&logoColor=white"></a></p>
 
+
 <h3 align="left">Certificates:</h3>
 
 <p align="center">
 <b>TryHackMe — Cyber Security 101 Certificate</b>
-&nbsp;
+</p>
+
+<p align="center">
 <a href="https://tryhackme.com/certificate/THM-CU46RJOTRC?utm_campaign=social_share&utm_medium=social&utm_content=certificate">
-<img src="https://img.shields.io/badge/Certificate-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
+<img src="https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
+</a>
+&nbsp;&nbsp;
+<a href="https://tryhackme.com/certificate/THM-CU46RJOTRC?utm_campaign=social_share&utm_medium=social&utm_content=certificate">
+<img src="https://img.shields.io/badge/View%20Certificate-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
 </a>
 </p>
 
@@ -57,9 +64,6 @@
 <img width="100%" src="certificate_cyber_security_101.png">
 </a>
 </p>
-
-
-
 
 
 <p align="left">Reach Me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amircybersecurity@gmail.com">AmirCyberSecurity@gmail.com</a></p>
