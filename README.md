@@ -44,9 +44,9 @@
 
 <h3 align="left">Certificates:</h3>
 
-<p align="left">
-<b>1. TryHackMe - Cyber Security 101 Certificate</b>
-&nbsp;
+<p align="center">
+<b>TryHackMe — Cyber Security 101 Certificate</b>
+<br><br>
 <a href="https://tryhackme.com/certificate/THM-CU46RJOTRC?utm_campaign=social_share&utm_medium=social&utm_content=certificate">
 <img src="https://img.shields.io/badge/View%20Certificate-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
 </a>
@@ -57,6 +57,7 @@
 <img width="100%" src="certificate_cyber_security_101.png">
 </a>
 </p>
+
 
 
 
