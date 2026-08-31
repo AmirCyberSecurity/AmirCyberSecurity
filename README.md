@@ -46,14 +46,15 @@
 
 <p align="center">
 <a href="https://tryhackme.com/certificate/THM-CU46RJOTRC?utm_campaign=social_share&utm_medium=social&utm_content=certificate">
-<img height="250" src="certificate_cyber_security_101.png">
+<img width="100%" src="certificate_cyber_security_101.png">
 </a>
 </p>
 
 <p align="center">
 <a href="https://tryhackme.com/certificate/THM-CU46RJOTRC?utm_campaign=social_share&utm_medium=social&utm_content=certificate">
-<img src="https://img.shields.io/badge/Cyber%20Security%20101-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
 </a>
 </p>
+
 
 <p align="left">Reach Me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amircybersecurity@gmail.com">AmirCyberSecurity@gmail.com</a></p>
