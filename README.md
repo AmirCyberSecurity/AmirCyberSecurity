@@ -46,7 +46,7 @@
 <h3 align="left">Certificates:</h3>
 
 <p align="center">
-<b>1. TryHackMe — Cyber Security 101 Certificate</b>
+<b>1. TryHackMe — Cyber Security 101</b>
 <a href="https://tryhackme.com/certificate/THM-CU46RJOTRC?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
 <button>Certificate ↗</button>
 </a>
