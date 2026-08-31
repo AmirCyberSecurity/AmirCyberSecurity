@@ -47,9 +47,15 @@
 
 <p align="center">
 <b>1. TryHackMe — Cyber Security 101 Certificate</b>
+</p>
+
+<p align="center">
+<a href="https://tryhackme.com/certificate/THM-CU46RJOTRC?utm_campaign=social_share&utm_medium=social&utm_content=certificate">
+<img height="35" src="https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
+</a>
 &nbsp;
 <a href="https://tryhackme.com/certificate/THM-CU46RJOTRC?utm_campaign=social_share&utm_medium=social&utm_content=certificate">
-<img height="25" src="https://img.shields.io/badge/View%20Certificate-111111?style=flat-square&logo=tryhackme&logoColor=white">
+<img height="35" src="https://img.shields.io/badge/View%20Certificate-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 
@@ -58,8 +64,6 @@
 <img width="100%" src="certificate_cyber_security_101.png">
 </a>
 </p>
-
-
 
 
 <p align="left">Reach Me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amircybersecurity@gmail.com">AmirCyberSecurity@gmail.com</a></p>
