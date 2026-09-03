@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-<b>2. TryHackMe - Web Fundamentals</b>
+<b>2. TryHackMe - Web Fundamentals (Legacy)</b>
 <a href="https://tryhackme.com/certificate/THM-VI3Q7N3PBM?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
 <button>Certificate ↗</button>
 </a>
