@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-<b>3. TryHackMe - Pre Security</b>
+<b>4. TryHackMe - Pre Security</b>
 <a href="https://tryhackme.com/certificate/THM-OHG7OWPNRE?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
 <button>Certificate ↗</button>
 </a>
