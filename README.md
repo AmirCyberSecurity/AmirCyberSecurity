@@ -97,4 +97,17 @@
 </a>
 </p>
 
+<p align="center">
+<b>5. TryHackMe - Jr Penetration Tester (Legacy)</b>
+<a href="https://tryhackme.com/certificate/THM-5KVIDNRPCLE?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
+<button>Certificate ↗</button>
+</a>
+</p>
+
+<p align="center">
+<a href="https://tryhackme.com/certificate/THM-5KVIDNRPCL?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
+<img width="100%" src="certificate_jr_penetration_tester_legacy.png">
+</a>
+</p>
+
 <p align="left">Reach Me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amircybersecurity@gmail.com">AmirCyberSecurity@gmail.com</a></p>
