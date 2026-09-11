@@ -85,9 +85,9 @@
 
 <tr>
 <td>Jr Penetration Tester (Legacy)</td>
-<td><code>THM-5KVIDNRPCLE</code></td>
+<td><code>THM-5KVIDNRPCL</code></td>
 <td align="center">
-<a href="https://tryhackme.com/certificate/THM-5KVIDNRPCLE"><img src="https://img.shields.io/badge/View-111111?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+<a href="https://tryhackme.com/certificate/THM-5KVIDNRPCL"><img src="https://img.shields.io/badge/View-111111?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
 </td>
 </tr>
 
