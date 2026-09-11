@@ -45,82 +45,31 @@
 
 <h3 align="left">Certificates:</h3>
 
-<p align="center">
-<b>1. TryHackMe - Cyber Security 101</b>
-<a href="https://tryhackme.com/certificate/THM-CU46RJOTRC?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
-<button>Certificate ↗</button>
-</a>
-</p>
-
-<p align="center">
-<a href="https://tryhackme.com/certificate/THM-CU46RJOTRC?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
-<img width="100%" src="certificate_cyber_security_101.png">
-</a>
-</p>
-
-<p align="center">
-<b>2. TryHackMe - Web Fundamentals (Legacy)</b>
-<a href="https://tryhackme.com/certificate/THM-VI3Q7N3PBM?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
-<button>Certificate ↗</button>
-</a>
-</p>
-
-<p align="center">
-<a href="https://tryhackme.com/certificate/THM-VI3Q7N3PBM?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
-<img width="100%" src="certificate_web_fundamentals.png">
-</a>
-</p>
-
-<p align="center">
-<b>3. TryHackMe - Pre Security (Legacy)</b>
-<a href="https://tryhackme.com/certificate/THM-EEFPS2EHIV?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
-<button>Certificate ↗</button>
-</a>
-</p>
-
-<p align="center">
-<a href="https://tryhackme.com/certificate/THM-EEFPS2EHIV?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
-<img width="100%" src="certificate_pre_security_legacy.png">
-</a>
-</p>
-
-<p align="center">
-<b>4. TryHackMe - Pre Security</b>
-<a href="https://tryhackme.com/certificate/THM-OHG7OWPNRE?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
-<button>Certificate ↗</button>
-</a>
-</p>
-
-<p align="center">
-<a href="https://tryhackme.com/certificate/THM-OHG7OWPNRE?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
-<img width="100%" src="certificate_pre_security.png">
-</a>
-</p>
-
-<p align="center">
-<b>5. TryHackMe - Jr Penetration Tester (Legacy)</b>
-<a href="https://tryhackme.com/certificate/THM-5KVIDNRPCLE?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
-<button>Certificate ↗</button>
-</a>
-</p>
-
-<p align="center">
-<a href="https://tryhackme.com/certificate/THM-5KVIDNRPCL?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
-<img width="100%" src="certificate_jr_penetration_tester_legacy.png">
-</a>
-</p>
-
-<p align="center">
-<b>6. TryHackMe - CompTIA Pentest+</b>
-<a href="https://tryhackme.com/certificate/THM-KVPALTKIJR?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
-<button>Certificate ↗</button>
-</a>
-</p>
-
-<p align="center">
-<a href="https://tryhackme.com/certificate/THM-KVPALTKIJR?utm_campaign=social_share&utm_medium=social&utm_content=certificate" target="_blank" rel="noopener noreferrer">
-<img width="100%" src="certificate_comptia_pentest+.png">
-</a>
-</p>
+<table>
+<tr>
+  <td><b>1.</b> Cyber Security 101</td>
+  <td><a href="https://tryhackme.com/certificate/THM-CU46RJOTRC?utm_campaign=social_share&utm_medium=social&utm_content=certificate">View Certificate ↗</a></td>
+</tr>
+<tr>
+  <td><b>2.</b> Web Fundamentals (Legacy)</td>
+  <td><a href="https://tryhackme.com/certificate/THM-VI3Q7N3PBM?utm_campaign=social_share&utm_medium=social&utm_content=certificate">View Certificate ↗</a></td>
+</tr>
+<tr>
+  <td><b>3.</b> Pre Security (Legacy)</td>
+  <td><a href="https://tryhackme.com/certificate/THM-EEFPS2EHIV?utm_campaign=social_share&utm_medium=social&utm_content=certificate">View Certificate ↗</a></td>
+</tr>
+<tr>
+  <td><b>4.</b> Pre Security</td>
+  <td><a href="https://tryhackme.com/certificate/THM-OHG7OWPNRE?utm_campaign=social_share&utm_medium=social&utm_content=certificate">View Certificate ↗</a></td>
+</tr>
+<tr>
+  <td><b>5.</b> Jr Penetration Tester (Legacy)</td>
+  <td><a href="https://tryhackme.com/certificate/THM-5KVIDNRPCLE?utm_campaign=social_share&utm_medium=social&utm_content=certificate">View Certificate ↗</a></td>
+</tr>
+<tr>
+  <td><b>6.</b> CompTIA Pentest+</td>
+  <td><a href="https://tryhackme.com/certificate/THM-KVPALTKIJR?utm_campaign=social_share&utm_medium=social&utm_content=certificate">View Certificate ↗</a></td>
+</tr>
+</table>
 
 <p align="left">Reach Me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amircybersecurity@gmail.com">AmirCyberSecurity@gmail.com</a></p>
