@@ -47,31 +47,27 @@
 
 <p align="center">
   <a href="https://tryhackme.com/certificate/THM-CU46RJOTRC">
-    <img src="certificate_cyber_security_101.png" width="280">
-  </a>
+    <img src="https://img.shields.io/badge/Cyber%20Security%20101-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://tryhackme.com/certificate/THM-VI3Q7N3PBM">
-    <img src="certificate_web_fundamentals.png" width="280">
-  </a>
-</p>
-
-<p align="center">
+    <img src="https://img.shields.io/badge/Web%20Fundamentals-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://tryhackme.com/certificate/THM-EEFPS2EHIV">
-    <img src="certificate_pre_security_legacy.png" width="280">
-  </a>
-  <a href="https://tryhackme.com/certificate/THM-OHG7OWPNRE">
-    <img src="certificate_pre_security.png" width="280">
+    <img src="https://img.shields.io/badge/Pre%20Security%20Legacy-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
   </a>
 </p>
 
 <p align="center">
+  <a href="https://tryhackme.com/certificate/THM-OHG7OWPNRE">
+    <img src="https://img.shields.io/badge/Pre%20Security-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://tryhackme.com/certificate/THM-5KVIDNRPCLE">
-    <img src="certificate_jr_penetration_tester_legacy.png" width="280">
-  </a>
+    <img src="https://img.shields.io/badge/Jr%20Penetration%20Tester-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://tryhackme.com/certificate/THM-KVPALTKIJR">
-    <img src="certificate_comptia_pentest+.png" width="280">
+    <img src="https://img.shields.io/badge/CompTIA%20Pentest%2B-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
   </a>
 </p>
-
 
 
 <p align="left">Reach Me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amircybersecurity@gmail.com">AmirCyberSecurity@gmail.com</a></p>
