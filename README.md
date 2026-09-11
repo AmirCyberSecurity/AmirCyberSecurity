@@ -45,29 +45,49 @@
 
 <h3 align="left">TryHackMe Certificates:</h3>
 
-<p align="center">
-  <a href="https://tryhackme.com/certificate/THM-CU46RJOTRC">
-    <img src="https://img.shields.io/badge/Cyber%20Security%20101-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tryhackme.com/certificate/THM-VI3Q7N3PBM">
-    <img src="https://img.shields.io/badge/Web%20Fundamentals-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tryhackme.com/certificate/THM-EEFPS2EHIV">
-    <img src="https://img.shields.io/badge/Pre%20Security%20Legacy-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
-  </a>
-</p>
+<table align="center">
+<tr>
+<th>Certificate</th>
+<th>ID</th>
+<th>View</th>
+</tr>
 
-<p align="center">
-  <a href="https://tryhackme.com/certificate/THM-OHG7OWPNRE">
-    <img src="https://img.shields.io/badge/Pre%20Security-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tryhackme.com/certificate/THM-5KVIDNRPCLE">
-    <img src="https://img.shields.io/badge/Jr%20Penetration%20Tester-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tryhackme.com/certificate/THM-KVPALTKIJR">
-    <img src="https://img.shields.io/badge/CompTIA%20Pentest%2B-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
-  </a>
-</p>
+<tr>
+<td>Cyber Security 101</td>
+<td><code>THM-CU46RJOTRC</code></td>
+<td><a href="https://tryhackme.com/certificate/THM-CU46RJOTRC">View ↗</a></td>
+</tr>
+
+<tr>
+<td>Web Fundamentals (Legacy)</td>
+<td><code>THM-VI3Q7N3PBM</code></td>
+<td><a href="https://tryhackme.com/certificate/THM-VI3Q7N3PBM">View ↗</a></td>
+</tr>
+
+<tr>
+<td>Pre Security (Legacy)</td>
+<td><code>THM-EEFPS2EHIV</code></td>
+<td><a href="https://tryhackme.com/certificate/THM-EEFPS2EHIV">View ↗</a></td>
+</tr>
+
+<tr>
+<td>Pre Security</td>
+<td><code>THM-OHG7OWPNRE</code></td>
+<td><a href="https://tryhackme.com/certificate/THM-OHG7OWPNRE">View ↗</a></td>
+</tr>
+
+<tr>
+<td>Jr Penetration Tester (Legacy)</td>
+<td><code>THM-5KVIDNRPCLE</code></td>
+<td><a href="https://tryhackme.com/certificate/THM-5KVIDNRPCLE">View ↗</a></td>
+</tr>
+
+<tr>
+<td>CompTIA Pentest+</td>
+<td><code>THM-KVPALTKIJR</code></td>
+<td><a href="https://tryhackme.com/certificate/THM-KVPALTKIJR">View ↗</a></td>
+</tr>
+</table>
 
 
 <p align="left">Reach Me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amircybersecurity@gmail.com">AmirCyberSecurity@gmail.com</a></p>
