@@ -42,7 +42,6 @@
 
 <p align="center"><a href="https://github.com/AmirCyberSecurity/TonFlood"><img height="55" src="https://img.shields.io/badge/TonFlood-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/Fsociety"><img height="55" src="https://img.shields.io/badge/Fsociety-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/ADDoS"><img height="55" src="https://img.shields.io/badge/ADDoS-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/AVERON"><img height="55" src="https://img.shields.io/badge/AVERON-111111?style=for-the-badge&logo=github&logoColor=white"></a></p>
 
-
 <h3 align="left">TryHackMe Certificates:</h3>
 
 <table align="center">
@@ -55,39 +54,50 @@
 <tr>
 <td>Cyber Security 101</td>
 <td><code>THM-CU46RJOTRC</code></td>
-<td><a href="https://tryhackme.com/certificate/THM-CU46RJOTRC">View ↗</a></td>
+<td align="center">
+<a href="https://tryhackme.com/certificate/THM-CU46RJOTRC"><img src="https://img.shields.io/badge/View-111111?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+</td>
 </tr>
 
 <tr>
 <td>Web Fundamentals (Legacy)</td>
 <td><code>THM-VI3Q7N3PBM</code></td>
-<td><a href="https://tryhackme.com/certificate/THM-VI3Q7N3PBM">View ↗</a></td>
+<td align="center">
+<a href="https://tryhackme.com/certificate/THM-VI3Q7N3PBM"><img src="https://img.shields.io/badge/View-111111?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+</td>
 </tr>
 
 <tr>
 <td>Pre Security (Legacy)</td>
 <td><code>THM-EEFPS2EHIV</code></td>
-<td><a href="https://tryhackme.com/certificate/THM-EEFPS2EHIV">View ↗</a></td>
+<td align="center">
+<a href="https://tryhackme.com/certificate/THM-EEFPS2EHIV"><img src="https://img.shields.io/badge/View-111111?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+</td>
 </tr>
 
 <tr>
 <td>Pre Security</td>
 <td><code>THM-OHG7OWPNRE</code></td>
-<td><a href="https://tryhackme.com/certificate/THM-OHG7OWPNRE">View ↗</a></td>
+<td align="center">
+<a href="https://tryhackme.com/certificate/THM-OHG7OWPNRE"><img src="https://img.shields.io/badge/View-111111?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+</td>
 </tr>
 
 <tr>
 <td>Jr Penetration Tester (Legacy)</td>
 <td><code>THM-5KVIDNRPCLE</code></td>
-<td><a href="https://tryhackme.com/certificate/THM-5KVIDNRPCLE">View ↗</a></td>
+<td align="center">
+<a href="https://tryhackme.com/certificate/THM-5KVIDNRPCLE"><img src="https://img.shields.io/badge/View-111111?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+</td>
 </tr>
 
 <tr>
 <td>CompTIA Pentest+</td>
 <td><code>THM-KVPALTKIJR</code></td>
-<td><a href="https://tryhackme.com/certificate/THM-KVPALTKIJR">View ↗</a></td>
+<td align="center">
+<a href="https://tryhackme.com/certificate/THM-KVPALTKIJR"><img src="https://img.shields.io/badge/View-111111?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+</td>
 </tr>
 </table>
-
 
 <p align="left">Reach Me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amircybersecurity@gmail.com">AmirCyberSecurity@gmail.com</a></p>
