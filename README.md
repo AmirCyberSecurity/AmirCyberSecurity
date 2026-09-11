@@ -45,31 +45,70 @@
 
 <h3 align="left">Certificates:</h3>
 
-<table>
+<table align="center">
 <tr>
-  <td><b>1.</b> Cyber Security 101</td>
-  <td><a href="https://tryhackme.com/certificate/THM-CU46RJOTRC?utm_campaign=social_share&utm_medium=social&utm_content=certificate">View Certificate ↗</a></td>
+<td align="center" width="50%">
+
+### 01 · Cyber Security 101
+
+<a href="https://tryhackme.com/certificate/THM-CU46RJOTRC">
+<img src="https://img.shields.io/badge/View_certificate-d4af37?style=flat-square&labelColor=070706&color=d4af37">
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 02 · Web Fundamentals
+
+<a href="https://tryhackme.com/certificate/THM-VI3Q7N3PBM">
+<img src="https://img.shields.io/badge/View_certificate-d4af37?style=flat-square&labelColor=070706&color=d4af37">
+</a>
+
+</td>
 </tr>
+
 <tr>
-  <td><b>2.</b> Web Fundamentals (Legacy)</td>
-  <td><a href="https://tryhackme.com/certificate/THM-VI3Q7N3PBM?utm_campaign=social_share&utm_medium=social&utm_content=certificate">View Certificate ↗</a></td>
+<td align="center">
+
+### 03 · Pre Security
+
+<a href="https://tryhackme.com/certificate/THM-EEFPS2EHIV">
+<img src="https://img.shields.io/badge/View_certificate-d4af37?style=flat-square&labelColor=070706&color=d4af37">
+</a>
+
+</td>
+<td align="center">
+
+### 04 · Pre Security
+
+<a href="https://tryhackme.com/certificate/THM-OHG7OWPNRE">
+<img src="https://img.shields.io/badge/View_certificate-d4af37?style=flat-square&labelColor=070706&color=d4af37">
+</a>
+
+</td>
 </tr>
+
 <tr>
-  <td><b>3.</b> Pre Security (Legacy)</td>
-  <td><a href="https://tryhackme.com/certificate/THM-EEFPS2EHIV?utm_campaign=social_share&utm_medium=social&utm_content=certificate">View Certificate ↗</a></td>
-</tr>
-<tr>
-  <td><b>4.</b> Pre Security</td>
-  <td><a href="https://tryhackme.com/certificate/THM-OHG7OWPNRE?utm_campaign=social_share&utm_medium=social&utm_content=certificate">View Certificate ↗</a></td>
-</tr>
-<tr>
-  <td><b>5.</b> Jr Penetration Tester (Legacy)</td>
-  <td><a href="https://tryhackme.com/certificate/THM-5KVIDNRPCLE?utm_campaign=social_share&utm_medium=social&utm_content=certificate">View Certificate ↗</a></td>
-</tr>
-<tr>
-  <td><b>6.</b> CompTIA Pentest+</td>
-  <td><a href="https://tryhackme.com/certificate/THM-KVPALTKIJR?utm_campaign=social_share&utm_medium=social&utm_content=certificate">View Certificate ↗</a></td>
+<td align="center">
+
+### 05 · Jr Penetration Tester
+
+<a href="https://tryhackme.com/certificate/THM-5KVIDNRPCLE">
+<img src="https://img.shields.io/badge/View_certificate-d4af37?style=flat-square&labelColor=070706&color=d4af37">
+</a>
+
+</td>
+<td align="center">
+
+### 06 · CompTIA Pentest+
+
+<a href="https://tryhackme.com/certificate/THM-KVPALTKIJR">
+<img src="https://img.shields.io/badge/View_certificate-d4af37?style=flat-square&labelColor=070706&color=d4af37">
+</a>
+
+</td>
 </tr>
 </table>
+
 
 <p align="left">Reach Me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amircybersecurity@gmail.com">AmirCyberSecurity@gmail.com</a></p>
