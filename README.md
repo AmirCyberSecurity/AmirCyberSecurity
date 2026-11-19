@@ -34,7 +34,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/TShark-111111?style=for-the-badge&logo=wireshark&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Scapy-111111?style=for-the-badge&logo=python&logoColor=white">
 &nbsp;
@@ -57,8 +56,6 @@
 <img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Wapiti-111111?style=for-the-badge&logo=owasp&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/OWASP_ZAP-111111?style=for-the-badge&logo=owasp&logoColor=white">
 </p>
 
 <h3 align="left">Projects:</h3>
