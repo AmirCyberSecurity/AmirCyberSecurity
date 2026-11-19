@@ -12,7 +12,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Shodan-111111?style=for-the-badge&logo=shodan&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white">
 &nbsp;
@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/WhatWeb-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
 </p>
 
 <p align="center">
@@ -37,6 +39,8 @@
 <img src="https://img.shields.io/badge/Scapy-111111?style=for-the-badge&logo=python&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Netcat-111111?style=for-the-badge&logo=gnometerminal&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/WHOIS-111111?style=for-the-badge&logo=icann&logoColor=white">
 </p>
 
 <p align="center">
@@ -53,6 +57,8 @@
 <img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Wapiti-111111?style=for-the-badge&logo=owasp&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/OWASP_ZAP-111111?style=for-the-badge&logo=owasp&logoColor=white">
 </p>
 
 <h3 align="left">Projects:</h3>
