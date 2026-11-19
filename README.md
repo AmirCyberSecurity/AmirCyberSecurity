@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge&logo=snake&logoColor=white">
+<img src="https://img.shields.io/badge/%F0%9F%90%8D_Hydra-111111?style=for-the-badge">
 &nbsp;
 <img src="https://img.shields.io/badge/Nuclei-111111?style=for-the-badge&logo=owasp&logoColor=white">
 &nbsp;
