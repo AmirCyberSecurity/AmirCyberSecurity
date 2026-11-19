@@ -12,7 +12,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/Shodan-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Shodan-111111?style=for-the-badge&logo=opensearch&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white">
 &nbsp;
@@ -22,7 +22,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/WhatWeb-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/WhatWeb-111111?style=for-the-badge&logo=wappalyzer&logoColor=white">
 </p>
 
 <p align="center">
@@ -44,15 +44,15 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/%F0%9F%90%8D_Hydra-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNNSAxOGMtMi0yLTEtNSAyLTZsNS0yYzItMSAyLTQgMC01LTItMS00IDEtMyAzbDEgMm05LTRjMiAxIDIgNCAwIDVsLTUgMmMtMiAxLTIgNCAwIDVzNC0xIDMtM2wtMS0yTTUgMThsLTIgMm0xNi0xNiAyLTIiLz48Y2lyY2xlIGN4PSIxMyIgY3k9IjUiIHI9IjAuOCIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg%3D%3D">
 &nbsp;
 <img src="https://img.shields.io/badge/Nuclei-111111?style=for-the-badge&logo=owasp&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/SQLmap-111111?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/SQLmap-111111?style=for-the-badge&logo=sqlite&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge&logo=go&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white">
 &nbsp;
@@ -62,7 +62,6 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-
 
 <p align="center"><a href="https://github.com/AmirCyberSecurity/TonFlood"><img height="55" src="https://img.shields.io/badge/TonFlood-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/Fsociety"><img height="55" src="https://img.shields.io/badge/Fsociety-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/ADDoS"><img height="55" src="https://img.shields.io/badge/ADDoS-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/AVERON"><img height="55" src="https://img.shields.io/badge/AVERON-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/WebSploit"><img height="55" src="https://img.shields.io/badge/WebSploit-111111?style=for-the-badge&logo=github&logoColor=white"></a></p>
 
