@@ -14,27 +14,45 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white">
-&nbsp;
 <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white">
-&nbsp;
 <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/Kali-111111?style=for-the-badge&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=linux&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/TShark-111111?style=for-the-badge&logo=wireshark&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Scapy-111111?style=for-the-badge&logo=python&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=hackthebox&logoColor=white">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge&logo=linux&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Nuclei-111111?style=for-the-badge&logo=owasp&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/SQLmap-111111?style=for-the-badge&logo=databricks&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge&logo=github&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/OWASP_ZAP-111111?style=for-the-badge&logo=owasp&logoColor=white">
 </p>
 
 <h3 align="left">Projects:</h3>
