@@ -12,13 +12,13 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/Shodan-111111?style=for-the-badge&logo=shodan&logoColor=white">
+<img src="https://img.shields.io/badge/Shodan-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
 &nbsp;
@@ -40,7 +40,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Netcat-111111?style=for-the-badge&logo=gnometerminal&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/WHOIS-111111?style=for-the-badge&logo=icann&logoColor=white">
+<img src="https://img.shields.io/badge/WHOIS-111111?style=for-the-badge&logo=cloudflare&logoColor=white">
 </p>
 
 <p align="center">
