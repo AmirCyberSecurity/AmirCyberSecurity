@@ -14,13 +14,13 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white">
 &nbsp;
+<img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Scapy-111111?style=for-the-badge&logo=python&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=hackthebox&logoColor=white">
+<img src="https://img.shields.io/badge/Netcat-111111?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/OWASP_ZAP-111111?style=for-the-badge&logo=owasp&logoColor=white">
+<img src="https://img.shields.io/badge/Wapiti-111111?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 <h3 align="left">Projects:</h3>
