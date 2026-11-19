@@ -30,7 +30,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=gnometerminal&logoColor=white">
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=radar&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white">
 &nbsp;
@@ -40,7 +40,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Netcat-111111?style=for-the-badge&logo=gnometerminal&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/WHOIS-111111?style=for-the-badge&logo=searchengineland&logoColor=white">
+<img src="https://img.shields.io/badge/WHOIS-111111?style=for-the-badge&logo=internetarchive&logoColor=white">
 </p>
 
 <p align="center">
