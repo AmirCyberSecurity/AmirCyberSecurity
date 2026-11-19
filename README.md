@@ -28,7 +28,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=gnometerminal&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white">
 &nbsp;
@@ -36,11 +36,11 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Scapy-111111?style=for-the-badge&logo=python&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/Netcat-111111?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Netcat-111111?style=for-the-badge&logo=gnometerminal&logoColor=white">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge&logo=gnometerminal&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/Nuclei-111111?style=for-the-badge&logo=owasp&logoColor=white">
 &nbsp;
@@ -52,7 +52,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/Wapiti-111111?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Wapiti-111111?style=for-the-badge&logo=owasp&logoColor=white">
 </p>
 
 <h3 align="left">Projects:</h3>
