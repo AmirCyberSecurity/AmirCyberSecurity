@@ -40,7 +40,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Netcat-111111?style=for-the-badge&logo=gnometerminal&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/WHOIS-111111?style=for-the-badge&logo=cloudflare&logoColor=white">
+<img src="https://img.shields.io/badge/WHOIS-111111?style=for-the-badge&logo=searchengineland&logoColor=white">
 </p>
 
 <p align="center">
