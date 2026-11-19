@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Amir</h1>
 <h3 align="center">Cybersecurity Specialist | Django Developer | OSINT Researcher</h3>
 
--  I’m currently learning **Advanced OSINT, Kali Linux, Linux Internals**
--  Ask me about **Django, Kali Linux, Python, OSINT**
-
+- I’m currently learning **Advanced OSINT, Penetration Testing, Linux Internals, and Network Security**.
+- Tools I use: **Nmap, Hydra, Nuclei, Metasploit, SQLmap, Gobuster, Burp Suite, and Wireshark**.
+- Ask me about **Kali Linux, Python, Django, OSINT, Web Security, and Network Reconnaissance**.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -40,7 +40,7 @@
 <h3 align="left">Projects:</h3>
 
 
-<p align="center"><a href="https://github.com/AmirCyberSecurity/TonFlood"><img height="55" src="https://img.shields.io/badge/TonFlood-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/Fsociety"><img height="55" src="https://img.shields.io/badge/Fsociety-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/ADDoS"><img height="55" src="https://img.shields.io/badge/ADDoS-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/AVERON"><img height="55" src="https://img.shields.io/badge/AVERON-111111?style=for-the-badge&logo=github&logoColor=white"></a></p>
+<p align="center"><a href="https://github.com/AmirCyberSecurity/TonFlood"><img height="55" src="https://img.shields.io/badge/TonFlood-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/Fsociety"><img height="55" src="https://img.shields.io/badge/Fsociety-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/ADDoS"><img height="55" src="https://img.shields.io/badge/ADDoS-111111?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/AVERON"><img height="55" src="https://img.shields.io/badge/AVERON-111111?style=for-the-badge&logo=github&logoColor=white"></a></p>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AmirCyberSecurity/WebSploit"><img height="55" src="https://img.shields.io/badge/WebSploit-111111?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <h3 align="left">TryHackMe Certificates:</h3>
 
